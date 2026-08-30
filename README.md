@@ -1,2 +1,2 @@
 # HIVEPILOT
-The code for my HIVEPILOT project on Printables.
+This is currently a work in progress. I am still learning how to code!
